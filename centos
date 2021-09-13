@@ -4,3 +4,4 @@ RUN curl https://gist.githubusercontent.com/lillylangtree/b55828fa05ed3470d352/r
 EXPOSE 8082
 USER nginx
 CMD ["nginx" , "-g" , "daemon off;"]
+RUN mkdir hello
