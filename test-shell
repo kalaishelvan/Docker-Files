@@ -1,3 +1,4 @@
 #!/bin/bash
 mkdir /home/kalaishelvan/git/dirsuc
 mkdir test
+mkdir rule
